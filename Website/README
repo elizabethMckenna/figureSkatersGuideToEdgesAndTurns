@@ -1,0 +1,40 @@
+*******************************************************************************
+A FIGURE SKATER'S GUIDE TO EDGES AND TURNS
+By Elizabeth McKenna
+
+CIS*1050 - Web Design and Development
+Build a Website: HTML & CSS - Culminating Assignment
+Summer 2020
+*******************************************************************************
+
+The Purpose of this website is to explain the technical aspect of edges and turns to those with skating background.
+The target audience is aimed at skaters and other individuals who may be interested in the technical aspects of edges and the characteristics of figure skating turns.
+
+Resources used:
+
+the content was created based on my personal knowledge of figure skating.  I have been a competitive skater for over a decade and currently compete at the world level in synchronized skating. I used the knowledge I have gained in the field to explain these basic concepts.
+
+Many of the turn diagrams and photos used in the website, as well as the video, is content that was created by me.  Graphics that were used in the website that are not mine are referenced using hyperlinks in the references page, which can be accessed via the footer navigation system.
+
+Tags and Styling that were not discussed in class were learned using information from the websites:
+  https://www.w3schools.com/css
+  https://stackoverflow.com (forums based on google searches for more information on certain tags)
+  https://www.geeksforgeeks.org/html-tutorials/
+
+  code from these sites was used as reference to understand the available tag and parameter options in HTML and CSS coding.
+
+
+The 404 error page is the link to the 2020 World Figure Skating Championships, which did not happen due to coronavirus.
+
+Testing:
+The website was tested on both safari and google chrome, using my mac laptop and on a secondary desktop computer in google chrome.
+
+
+Known bugs:
+when window is resized to be extremely small, the text and links on the menu bar become crowded as the text is too long to fit without overlapping.
+
+when window is resized to be extremely small, the buttons on the home page are no longer organized nicely. The right hand side button gets too close to the right edge to fit along one line, and also moves completely to the right side of the page (no margin)
+
+when window is extremely large (viewed on the large desktop screen), the formatting becomes disorganized due to the fewer number of lines it takes to display the text.  This problem is extremely noticeable on the turns page due to the large number of graphics that are used.
+
+to solve these problems, it would be a good idea to set up a at rules to modify formatting for extreme situations, but when used on a normal sized window the website functions well.
